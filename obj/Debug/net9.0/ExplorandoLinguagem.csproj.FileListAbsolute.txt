@@ -1,0 +1,17 @@
+D:\NET Developer\ExplorandoLinguagem\bin\Debug\net9.0\ExplorandoLinguagem.exe
+D:\NET Developer\ExplorandoLinguagem\bin\Debug\net9.0\ExplorandoLinguagem.deps.json
+D:\NET Developer\ExplorandoLinguagem\bin\Debug\net9.0\ExplorandoLinguagem.runtimeconfig.json
+D:\NET Developer\ExplorandoLinguagem\bin\Debug\net9.0\ExplorandoLinguagem.dll
+D:\NET Developer\ExplorandoLinguagem\bin\Debug\net9.0\ExplorandoLinguagem.pdb
+D:\NET Developer\ExplorandoLinguagem\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.csproj.AssemblyReference.cache
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.AssemblyInfoInputs.cache
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.AssemblyInfo.cs
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.csproj.CoreCompileInputs.cache
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\Exploran.A39DF574.Up2Date
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.dll
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\refint\ExplorandoLinguagem.dll
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.pdb
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ExplorandoLinguagem.genruntimeconfig.cache
+D:\NET Developer\ExplorandoLinguagem\obj\Debug\net9.0\ref\ExplorandoLinguagem.dll
